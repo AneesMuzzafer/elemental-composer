@@ -1,0 +1,16 @@
+<?php
+
+use Core\Console\Input;
+use Core\Engine\ConsoleEngine;
+
+require __DIR__ . "/core/autoload.php";
+
+$app = require_once __DIR__ . "/app/bootstrap/app.php";
+
+$engine = $app->make(ConsoleEngine::class);
+
+$input = Input::read($argv);
+
+$engine->run($input);
+
+$app->terminate();
