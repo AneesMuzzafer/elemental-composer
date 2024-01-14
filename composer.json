@@ -1,0 +1,59 @@
+{
+    "name": "elemental/elemental",
+    "description": "A PHP framework without any strings attached, but with all the magical features. With no external dependencies, it empowers developers to explore dynamic coding experiences, featuring a powerful Dependency Injection Container, MVC architecture, and more.",
+    "type": "project",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Anees Muzzafer Shah",
+            "email": "aneesmuzzafer@gmail.com",
+            "homepage": "https://github.com/AneesMuzzafer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "require-dev": {},
+    "keywords": [
+        "php",
+        "framework",
+        "mvc",
+        "rest",
+        "api",
+        "routing",
+        "templating",
+        "dependency-injection",
+        "orm",
+        "database",
+        "model",
+        "view",
+        "components",
+        "controllers",
+        "middleware",
+        "cli",
+        "modular",
+        "extensible",
+        "routing-engine",
+        "simple",
+        "built-from-scratch",
+        "service-container",
+        "laravel-resemblance",
+        "php-library",
+        "php-package",
+        "php-development",
+        "php-tool",
+        "web-development",
+        "php-mvc",
+        "php-orm",
+        "php-cli",
+        "php-rest"
+    ],
+    "homepage": "https://inkwell.anees.dev",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "support": {
+        "issues": "https://github.com/AneesMuzzafer/elemental/issues",
+        "source": "https://github.com/AneesMuzzafer/elemental"
+    }
+}
