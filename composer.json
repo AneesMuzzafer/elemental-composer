@@ -1,5 +1,5 @@
 {
-    "name": "particle/elemental",
+    "name": "bit/elemental",
     "description": "A PHP framework without any strings attached, but with all the magical features.",
     "type": "project",
     "license": "MIT",
