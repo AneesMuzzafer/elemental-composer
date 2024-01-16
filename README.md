@@ -2,6 +2,10 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+
+> **Please Note:** This repository contains the code of the Elemental framework suited for installation via Composer. If you prefer to clone the application and run it without dependencies like Composer, please visit the main [Elemental repository](https://github.com/AneesMuzzafer/elemental).
+
+
 Elemental is a PHP framework developed from scratch for dynamic, user-friendly coding experiences. It incorporates various features  such as Dependency Injection  and follows the MVC architecture to streamline web development and improve code organization. Engineered with a passion for simplicity and flexibility, Elemental opens the doors to a realm where coding meets unparalleled control.
 
 

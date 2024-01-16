@@ -34,8 +34,6 @@
         "modular",
         "extensible",
         "routing-engine",
-        "simple",
-        "built-from-scratch",
         "service-container",
         "laravel-resemblance",
         "php-library",
@@ -48,7 +46,7 @@
         "php-cli",
         "php-rest"
     ],
-    "homepage": "https://inkwell.anees.dev",
+    "homepage": "https://github.com/AneesMuzzafer/elemental",
     "support": {
         "issues": "https://github.com/AneesMuzzafer/elemental/issues",
         "source": "https://github.com/AneesMuzzafer/elemental"
